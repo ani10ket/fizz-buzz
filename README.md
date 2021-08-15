@@ -5,4 +5,4 @@ Program that shows a simple program of Fizz Buzz that could be implemented witho
 
 To run this program:
 
-go run ./fizzbuzz.go
+go run .\fizzbuzz.go
